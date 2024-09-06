@@ -68,3 +68,6 @@ git add . para adicionar todos os novos de uma só vez
 git commit -m “Descrição do Commit”
 git commit “nome do arquvo.extensão” -m “Descrição do Commit”
 git log pra verificar os commits existentes.
+
+Autor: Paulo Sergio Maia
+email: santosmaia31@outlook.com
